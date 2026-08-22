@@ -1,0 +1,761 @@
+{
+  "movies": [
+    {
+      "id": "m-avengers-1",
+      "slug": "the-avengers-2012",
+      "imdbId": "tt0848228",
+      "tmdbId": 24428,
+      "title": "The Avengers",
+      "originalTitle": "The Avengers",
+      "year": 2012,
+      "releaseDate": "2012-04-25",
+      "runtime": 143,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8,
+      "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster.",
+      "sinhalaDescription": "මාර්වල් සිනමා විශ්වයේ (MCU) පළමු අදියරේ කූටප්‍රාප්තිය සනිටුහන් කරමින් 2012 වසරේ තිරගත වූ 'The Avengers' යනු ලොව පුරා සිනමාලෝලීන් මහත් උනන්දුවෙන් වැළඳගත් සුපිරි සිනමා නිර්මාණයකි. ලෝක සාමයට සහ ආරක්ෂාවට ලොකී (Loki) ඇතුළු පිටසක්වල බලවේගයකින් එල්ලවන ප්‍රබල තර්ජනය හමුවේ S.H.I.E.L.D. සංවිධානයේ ප්‍රධානී නික් ෆියුරි විසින් පෘථිවියේ ප්‍රබලතම සුපිරි වීරයන් වන අයන් මෑන්, කැප්ටන් ඇමරිකා, තෝර්, හල්ක්, බ්ලැක් විඩෝ සහ හෝක්අයි එක්රැස් කරයි.\n\nඑකිනෙකාට වෙනස් ගතිගුණ සහ අදහස් ඇති මෙම වීරයන් එකමුතු වී නිව්යෝර්ක් නගරය සුරැකීමට දරන අසමසම සටන කුතුහලය සහ ක්‍රියාදාම රැසකින් යුක්තව මෙහි දිගහැරේ. Joss Whedon ගේ විශිෂ්ට අධ්‍යක්ෂණයෙන් හැඩවුණු මෙම චිත්‍රපටය ඔබ නැරඹිය යුතුම අතිදැවැන්ත සිනමා අත්දැකීමකි. සිංහල උපසිරැසි සමඟ දැන්ම නරඹන්න!",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+      "director": "Joss Whedon",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Tom Hiddleston",
+        "Samuel L. Jackson"
+      ],
+      "country": "United States",
+      "language": "English",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "hasSinhalaSub": true,
+      "published": true,
+      "featured": true,
+      "collections": [
+        "col-avengers",
+        "col-mcu"
+      ],
+      "createdAt": "2026-08-21T21:02:46.889Z",
+      "updatedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "m-avengers-2",
+      "slug": "avengers-age-of-ultron-2015",
+      "imdbId": "tt2395427",
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "originalTitle": "Avengers: Age of Ultron",
+      "year": 2015,
+      "releaseDate": "2015-04-22",
+      "runtime": 141,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.3,
+      "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth's Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance as the villainous Ultron emerges.",
+      "sinhalaDescription": "මාර්වල් සිනමා විශ්වයේ (MCU) දෙවන අදියරේ දැවැන්ත සන්ධිස්ථානයක් සනිටුහන් කළ 'Avengers: Age of Ultron' චිත්‍රපටය 2015 වසරේදී තිරගත විය. ටෝනි ස්ටාර්ක් (Iron Man) සහ බෲස් බැනර් (Hulk) එක්ව ලෝක සාමය රැකගැනීමේ අරමුණින් නිර්මාණය කරන කෘත්‍රිම බුද්ධියක් (AI) වන 'අල්ට්‍රොන්' (Ultron) අනපේක්ෂිත ලෙස මිනිස් වර්ගයාම විනාශ කිරීමට තීරණය කිරීමත් සමඟ ලෝකය මහත් අනතුරකට පත්වේ.\n\nඇවෙන්ජර්ස් වීරයන්ට අල්ට්‍රොන්ගේ ඝාතක රොබෝ හමුදාවට එරෙහිව සටන් කිරීමට අමතරව ස්කාර්ලට් විච් (Wanda) සහ ක්වික්සිල්වර් (Pietro) වැනි නව චරිතවල අභියෝගවලට ද මුහුණ දීමට සිදුවේ. ඇදහිය නොහැකි දෘශ්‍ය ප්‍රයෝග, උද්වේගකර සටන් ජවනිකා සහ Vision චරිතයේ සම්ප්‍රාප්තිය සමඟින් මෙම සිනමාපටය ඔබේ හදවත දිනාගනු ඇත.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4ssDuvEDkS9urvtLgi1STazoDc8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/8K9qN9nE43s22I9g24p4f95o0m7.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=tmeOjFno6Do",
+      "director": "Joss Whedon",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Chris Evans",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "James Spader",
+        "Elizabeth Olsen"
+      ],
+      "country": "United States",
+      "language": "English",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "hasSinhalaSub": true,
+      "published": true,
+      "featured": true,
+      "collections": [
+        "col-avengers",
+        "col-mcu"
+      ],
+      "createdAt": "2026-08-21T21:02:46.889Z",
+      "updatedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "m-avengers-3",
+      "slug": "avengers-infinity-war-2018",
+      "imdbId": "tt4154756",
+      "tmdbId": 299536,
+      "title": "Avengers: Infinity War",
+      "originalTitle": "Avengers: Infinity War",
+      "year": 2018,
+      "releaseDate": "2018-04-25",
+      "runtime": 149,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "rating": 8.4,
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos.",
+      "sinhalaDescription": "සිනමා ඉතිහාසයේ එදා මෙදා තුර බිහිවූ අතිදැවැන්තම හා වඩාත්ම හැඟීම්බර ක්‍රියාදාම සිනමා නිර්මාණයක් ලෙස 'Avengers: Infinity War' අවිවාදයෙන්ම හැඳින්විය හැක. විශ්වයේ සමතුලිතතාවය ඇතිකිරීමේ නාමයෙන් විශ්වයේ අඩක් විනාශ කිරීමට අරමුණු කරගත් බලගතු තැනොස් (Thanos), අනන්ත මැණික් හය (Infinity Stones) සොයා මෙහෙයුමක් ආරම්භ කරයි.\n\nඇවෙන්ජර්ස් සාමාජිකයන්, ගාඩියන්ස් ඔෆ් ද ගැලැක්සි (Guardians of the Galaxy), ඩොක්ටර් ස්ට්‍රේන්ජ් සහ බ්ලැක් පැන්තර් ඇතුළු සියලුම වීරයන් එකම පෙරමුණකට පැමිණ තැනොස්ව නැවැත්වීමට දරන අසමසම අරගලය මෙම චිත්‍රපටයෙන් නිරූපණය වේ. නොසිතූ ආකාරයේ කම්පන සහගත අවසානයක් සහිත මෙම විශිෂ්ට සිනමාපටය සිංහල උපසිරැසි සමඟ ඉහළම ගුණාත්මකභාවයෙන් නරඹන්න.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/lmZFxXgJE3vgr8zqvgFuZAdDXap.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+      "director": "Anthony Russo, Joe Russo",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Chris Evans",
+        "Scarlett Johansson",
+        "Benedict Cumberbatch",
+        "Tom Holland",
+        "Josh Brolin"
+      ],
+      "country": "United States",
+      "language": "English",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "hasSinhalaSub": true,
+      "published": true,
+      "featured": true,
+      "collections": [
+        "col-avengers",
+        "col-mcu"
+      ],
+      "createdAt": "2026-08-21T21:02:46.889Z",
+      "updatedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "m-avengers-4",
+      "slug": "avengers-endgame-2019",
+      "imdbId": "tt4154796",
+      "tmdbId": 299534,
+      "title": "Avengers: Endgame",
+      "originalTitle": "Avengers: Endgame",
+      "year": 2019,
+      "releaseDate": "2019-04-24",
+      "runtime": 181,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "sinhalaDescription": "වසර 11 ක සිනමා ගමනක අසමසම නිමාව සනිටුහන් කරමින් ලොව පුරා සිනමා ඉතිහාසයේ ආදායම් වාර්තා බිඳහෙලූ 'Avengers: Endgame' යනු කිසිදා අමතක නොවන සිනමා මහා කාව්‍යයකි. තැනොස්ගේ 'ස්නැප්' එකෙන් පසු විශ්වයේ ජීවයෙන් අඩක් අළු වී ගිය පසු, ඉතිරි වූ ඇවෙන්ජර්ස් වීරයන් තම බිඳවැටුණු සිත් දරාගෙන කාල තරණය (Time Travel) ඔස්සේ අතීතයට ගොස් අහිමි වූවන් නැවත ලබාගැනීමට ගන්නා අන්තිම උත්සාහය මෙහි දිගහැරේ.\n\nටෝනි ස්ටාර්ක් සහ ස්ටීව් රොජර්ස් ඇතුළු සියලුම වීරයන්ගේ පරිත්‍යාගය, කඳුළු, සිනහව සහ අවසාන දැවැන්ත සටන සෑම ප්‍රේක්ෂකයෙකුගේම නෙතට කඳුළක් එක්කරයි. සම්පූර්ණ පැය තුනක් පුරා දිවෙන මෙම අසමසම සිනමා අත්දැකීම SeriesHubLk හරහා සිංහල උපසිරැසි සමඟ ඔබේ නිවසේදීම විඳගන්න!",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+      "director": "Anthony Russo, Joe Russo",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Don Cheadle",
+        "Paul Rudd"
+      ],
+      "country": "United States",
+      "language": "English",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "hasSinhalaSub": true,
+      "published": true,
+      "featured": true,
+      "collections": [
+        "col-avengers",
+        "col-mcu"
+      ],
+      "createdAt": "2026-08-21T21:02:46.889Z",
+      "updatedAt": "2026-08-21T21:02:46.889Z"
+    }
+  ],
+  "movieImages": [
+    {
+      "id": "img-a1-1",
+      "movieId": "m-avengers-1",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 1
+    },
+    {
+      "id": "img-a1-2",
+      "movieId": "m-avengers-1",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/nNmJRkg8wWnRmzQDe2YwljqlCZx.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 2
+    },
+    {
+      "id": "img-a1-3",
+      "movieId": "m-avengers-1",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/7LMGIz065iB0E7bY6qZ2vF39912.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 3
+    },
+    {
+      "id": "img-a1-4",
+      "movieId": "m-avengers-1",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/hUPgIibqZlwbVzy4iqBp5c1I0l.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 4
+    },
+    {
+      "id": "img-a1-5",
+      "movieId": "m-avengers-1",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/gL2tMsnqA1h22r4u3iP3n0hO47u.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 5
+    },
+    {
+      "id": "img-a1-6",
+      "movieId": "m-avengers-1",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/h56vB8j8q7F0I7r4g3Z6yU6w5y7.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 6
+    },
+    {
+      "id": "img-a2-1",
+      "movieId": "m-avengers-2",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/8K9qN9nE43s22I9g24p4f95o0m7.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 1
+    },
+    {
+      "id": "img-a2-2",
+      "movieId": "m-avengers-2",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/6966fI2p4Qy3V2l9gM2VvB1zJ8h.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 2
+    },
+    {
+      "id": "img-a2-3",
+      "movieId": "m-avengers-2",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/xnqustik40ogVwXzOiqH5g7U4N6.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 3
+    },
+    {
+      "id": "img-a2-4",
+      "movieId": "m-avengers-2",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/7k9M2a3h2gJ8yWqV4n4x8K5n6P7.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 4
+    },
+    {
+      "id": "img-a2-5",
+      "movieId": "m-avengers-2",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/9lU5j9n8yJ7gK4V3x6n8m5b2V1x.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 5
+    },
+    {
+      "id": "img-a2-6",
+      "movieId": "m-avengers-2",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/4zZ5t8q9W4p6Y3x2n7m5V1c8b9A.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 6
+    },
+    {
+      "id": "img-a3-1",
+      "movieId": "m-avengers-3",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/lmZFxXgJE3vgr8zqvgFuZAdDXap.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 1
+    },
+    {
+      "id": "img-a3-2",
+      "movieId": "m-avengers-3",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/bOGkgRGdhrBYJSLpXaxhXVstNsV.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 2
+    },
+    {
+      "id": "img-a3-3",
+      "movieId": "m-avengers-3",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/ndlQ2Cuc3phne7Gz4Zr4GEUVETb.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 3
+    },
+    {
+      "id": "img-a3-4",
+      "movieId": "m-avengers-3",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/3P52oz9HPCSW7JQCsqCVNm5qVuc.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 4
+    },
+    {
+      "id": "img-a3-5",
+      "movieId": "m-avengers-3",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/6elXDk24vK14JbX9L37m38s9m30.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 5
+    },
+    {
+      "id": "img-a3-6",
+      "movieId": "m-avengers-3",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/9x9t6R3b7V3l6N9g2H5y0K1f4w9.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 6
+    },
+    {
+      "id": "img-a4-1",
+      "movieId": "m-avengers-4",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 1
+    },
+    {
+      "id": "img-a4-2",
+      "movieId": "m-avengers-4",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/orjiB3oal99aq070shzGdrpy3i7.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 2
+    },
+    {
+      "id": "img-a4-3",
+      "movieId": "m-avengers-4",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/6XJ8xKzQ2XW7L3gM8fG7H9j5m2N.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 3
+    },
+    {
+      "id": "img-a4-4",
+      "movieId": "m-avengers-4",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/5B5K5w3v2yL4x8P2m6V9N4j1k3B.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 4
+    },
+    {
+      "id": "img-a4-5",
+      "movieId": "m-avengers-4",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/3T9j7M4g9H5v2L3N1m8P7k9V4x1.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 5
+    },
+    {
+      "id": "img-a4-6",
+      "movieId": "m-avengers-4",
+      "imageUrl": "https://image.tmdb.org/t/p/w1280/8Y0v5L2m9N3v4k7P1m6X8y2V4b3.jpg",
+      "imageType": "backdrop",
+      "displayOrder": 6
+    }
+  ],
+  "tvSeries": [
+    {
+      "id": "tv-got",
+      "slug": "game-of-thrones",
+      "imdbId": "tt0944947",
+      "tmdbId": 1399,
+      "title": "Game of Thrones",
+      "originalTitle": "Game of Thrones",
+      "firstAirDate": "2011-04-17",
+      "year": 2011,
+      "rating": 9.2,
+      "genres": [
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north.",
+      "sinhalaDescription": "HBO නාලිකාව ඔස්සේ විකාශය වූ ලොව අංක එකේ මනඃකල්පිත ත්‍රාසජනක ටෙලි නාට්‍ය මාලාව වන 'Game of Thrones' යනු ලොව පුරා කෝටි සංඛ්‍යාත ප්‍රේක්ෂක හදවත් වසඟ කළ විශිෂ්ටතම නිර්මාණයකි. වෙස්ටරෝස් (Westeros) දේශයේ යකඩ සිංහාසනය (Iron Throne) අත්පත් කරගැනීම සඳහා බලගතු වංශවත් පවුල් හතක් අතර ඇතිවන ලේවැකි දේශපාලන කුමන්ත්‍රණ සහ මහා යුද්ධ මෙහි මනාව දිගහැරේ.\n\nඋතුරේ පවුරෙන් ඔබ්බෙහි සිට අවදිවන අභිරහස් වයිට් වෝකර්ස් (White Walkers) හමුදාව සහ ඩෙනෙරිස් ටාගේරියන්ගේ ගිනි පිඹින මකරන්ගේ ආගමනය කතාව තවත් උණුසුම් කරයි. සෑම කොටසක් පාසාම කුතුහලය සහ විස්මය දනවමින් දිවෙන මෙම දැවැන්ත කතා මාලාව සිංහල උපසිරැසි සමඟ නරඹන්න.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+      "creators": [
+        "David Benioff",
+        "D.B. Weiss"
+      ],
+      "cast": [
+        "Emilia Clarke",
+        "Kit Harington",
+        "Peter Dinklage",
+        "Lena Headey",
+        "Nikolaj Coster-Waldau",
+        "Sophie Turner",
+        "Maisie Williams"
+      ],
+      "seasonsCount": 8,
+      "episodesCount": 73,
+      "hasSinhalaSub": true,
+      "published": true,
+      "featured": true,
+      "createdAt": "2026-08-21T21:02:46.889Z",
+      "updatedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "tv-stranger-things",
+      "slug": "stranger-things",
+      "imdbId": "tt4574334",
+      "tmdbId": 66732,
+      "title": "Stranger Things",
+      "originalTitle": "Stranger Things",
+      "firstAirDate": "2016-07-15",
+      "year": 2016,
+      "rating": 8.7,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+      "sinhalaDescription": "නෙට්ෆ්ලික්ස් (Netflix) හි අතිශය ජනප්‍රියත්වයට පත් 'Stranger Things' යනු 80 දශකයේ ඇමරිකාවේ හෝකින්ස් නමැති කුඩා නගරයක සිදුවන අද්භූත හා විද්‍යා ප්‍රබන්ධ සිදුවීම් මාලාවකි. විල් බයර්ස් නම් කුඩා දරුවා අතුරුදහන් වීමත් සමඟ, ඔහුගේ මිතුරන්, මව සහ පොලිස් ප්‍රධානියා ඔහුව සෙවීමේදී රහස් රජයේ පර්යේෂණාගාරයක්, අද්භූත සමාන්තර ලෝකයක් (Upside Down) සහ අද්භූත බලයන් සහිත 'Eleven' නම් ගැහැණු ළමයා හමුවේ.\n\nළමා මිත්‍රත්වය, ආදරය සහ බියජනක රාක්ෂයින්ගෙන් පිරි මෙම කතා මාලාව නැරඹීමෙන් ඔබට අද්විතීය ත්‍රාසජනක අත්දැකීමක් හිමිවනු ඇත. සිංහල උපසිරැසි සමඟ දැන්ම නරඹන්න!",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+      "creators": [
+        "The Duffer Brothers"
+      ],
+      "cast": [
+        "Millie Bobby Brown",
+        "Finn Wolfhard",
+        "Winona Ryder",
+        "David Harbour",
+        "Gaten Matarazzo",
+        "Caleb McLaughlin",
+        "Noah Schnapp",
+        "Sadie Sink"
+      ],
+      "seasonsCount": 4,
+      "episodesCount": 34,
+      "hasSinhalaSub": true,
+      "published": true,
+      "featured": true,
+      "createdAt": "2026-08-21T21:02:46.889Z",
+      "updatedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "tv-breaking-bad",
+      "slug": "breaking-bad",
+      "imdbId": "tt0903747",
+      "tmdbId": 1396,
+      "title": "Breaking Bad",
+      "originalTitle": "Breaking Bad",
+      "firstAirDate": "2008-01-20",
+      "year": 2008,
+      "rating": 9.5,
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "overview": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's financial future.",
+      "sinhalaDescription": "IMDb හි 9.5 ක වාර්තාගත ඉහළම ශ්‍රේණිගත කිරීමක් හිමිකරගත් 'Breaking Bad' යනු සිනමා ඉතිහාසයේ බිහිවූ අසහාය විශිෂ්ටතම ටෙලි නාට්‍ය මාලාවකි. පෙනහළු පිළිකාවක් වැළඳී ඇති බව දැනගන්නා සාමාන්‍ය උසස් පාසල් රසායන විද්‍යා ගුරුවරයෙකු වන වෝල්ටර් වයිට් (Walter White), තම මරණයෙන් පසු පවුලේ මූල්‍යමය අනාගතය සුරක්ෂිත කිරීම සඳහා තම පැරණි ශිෂ්‍යයෙකු වන ජෙසී පින්ක්මන් (Jesse Pinkman) සමඟ එක්ව අතිශය පිරිසිදු 'Methamphetamine' මත්ද්‍රව්‍ය නිෂ්පාදනයට පිවිසෙයි.\n\nසාමාන්‍ය ගුරුවරයෙකු වූ වෝල්ටර් වයිට්, 'හයිසන්බර්ග්' (Heisenberg) නම් අනුකම්පා විරහිත මත්ද්‍රව්‍ය රජෙකු බවට පත්වන ආකාරය විශ්මයජනක රංගනයෙන් හා අධ්‍යක්ෂණයෙන් මෙහි විදහා දැක්වේ. සිංහල උපසිරැසි සමඟ ඉහළම තත්ත්වයෙන් නරඹන්න.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+      "creators": [
+        "Vince Gilligan"
+      ],
+      "cast": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Anna Gunn",
+        "Dean Norris",
+        "Betsy Brandt",
+        "RJ Mitte",
+        "Bob Odenkirk",
+        "Giancarlo Esposito"
+      ],
+      "seasonsCount": 5,
+      "episodesCount": 62,
+      "hasSinhalaSub": true,
+      "published": true,
+      "featured": true,
+      "createdAt": "2026-08-21T21:02:46.889Z",
+      "updatedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "tv-wednesday",
+      "slug": "wednesday",
+      "imdbId": "tt13443470",
+      "tmdbId": 119051,
+      "title": "Wednesday",
+      "originalTitle": "Wednesday",
+      "firstAirDate": "2022-11-23",
+      "year": 2022,
+      "rating": 8.5,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Comedy"
+      ],
+      "overview": "Wednesday Addams is expelled from school and sent to Nevermore Academy, a boarding school for monstrous misfits. She must master her psychic ability to solve a murder mystery.",
+      "sinhalaDescription": "ටිම් බර්ටන්ගේ (Tim Burton) අසමසම අධ්‍යක්ෂණයෙන් හැඩවුණු නෙට්ෆ්ලික්ස් හි ගෝලීය රැල්ලක් ඇති කළ 'Wednesday' කතා මාලාව ඇඩම්ස් ෆැමිලි (Addams Family) හි ආකර්ෂණීය වෙඩ්න්ස්ඩේ ඇඩම්ස්ගේ පාසල් දිවිය වටා ගෙතී ඇත. අද්භූත පුද්ගලයන් සඳහා වූ 'Nevermore Academy' නේවාසික පාසලට ඇතුළත් වන ඇය, නගරයේ සිදුවන බිහිසුණු ඝාතන රැල්ලක අබිරහස විසඳීමට තම මානසික (psychic) හැකියාවන් යොදාගනී.\n\nහාස්‍යය, අබිරහස සහ ගොතික් ශෛලියේ මනරම් දර්ශනවලින් අනූන මෙම කතා මාලාව ජෙනා ඔර්ටෙගාගේ (Jenna Ortega) අතිවිශිෂ්ට රංගනයෙන් ඔපමට්ටම් වී ඇත. සිංහල උපසිරැසි සමඟින් රසවිඳින්න.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9PFonQ9dcSlOGbaDo2SAPwCwISx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=Di310BC8urj",
+      "creators": [
+        "Alfred Gough",
+        "Miles Millar"
+      ],
+      "cast": [
+        "Jenna Ortega",
+        "Gwendoline Christie",
+        "Riki Lindhome",
+        "Jamie McShane",
+        "Hunter Doohan",
+        "Percy Hynes White",
+        "Emma Myers"
+      ],
+      "seasonsCount": 1,
+      "episodesCount": 8,
+      "hasSinhalaSub": true,
+      "published": true,
+      "featured": true,
+      "createdAt": "2026-08-21T21:02:46.889Z",
+      "updatedAt": "2026-08-21T21:02:46.889Z"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "seas-got-1",
+      "seriesId": "tv-got",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Season 1 of Game of Thrones premiered on April 17, 2011.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wgfKiq9mMUr9mIDr7xVz1pM24B5.jpg",
+      "episodesCount": 10
+    },
+    {
+      "id": "seas-st-1",
+      "seriesId": "tv-stranger-things",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Season 1 of Stranger Things premiered on July 15, 2016.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "episodesCount": 8
+    },
+    {
+      "id": "seas-bb-1",
+      "seriesId": "tv-breaking-bad",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Season 1 of Breaking Bad premiered on January 20, 2008.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1yeAQyvE5zY9G6iHqg2uL3Z8h6k.jpg",
+      "episodesCount": 7
+    },
+    {
+      "id": "seas-wed-1",
+      "seriesId": "tv-wednesday",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Wednesday Addams begins her journey at Nevermore Academy.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9PFonQ9dcSlOGbaDo2SAPwCwISx.jpg",
+      "episodesCount": 8
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep-got-101",
+      "seriesId": "tv-got",
+      "seasonId": "seas-got-1",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "title": "Winter Is Coming",
+      "airDate": "2011-04-17",
+      "runtime": 62,
+      "overview": "Lord Ned Stark is torn between his family and an old friend when asked to serve at the side of King Robert Baratheon; Viserys Targaryen plans to wed his sister to a nomadic warlord.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w1280/9p3iB5t7x4xP7k9L1n6v2m4P5Q8.jpg",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "hasSinhalaSub": true,
+      "published": true
+    },
+    {
+      "id": "ep-got-102",
+      "seriesId": "tv-got",
+      "seasonId": "seas-got-1",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "title": "The Kingsroad",
+      "airDate": "2011-04-24",
+      "runtime": 56,
+      "overview": "While Bran recovers from his fall, Ned leaves Stark house to serve as the King's Hand; Jon Snow heads north with Uncle Benjen to join the Night's Watch.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w1280/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "hasSinhalaSub": true,
+      "published": true
+    },
+    {
+      "id": "ep-st-101",
+      "seriesId": "tv-stranger-things",
+      "seasonId": "seas-st-1",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "title": "Chapter One: The Vanishing of Will Byers",
+      "airDate": "2016-07-15",
+      "runtime": 48,
+      "overview": "On his way home from a friend's house, young Will sees something terrifying. Nearby, a sinister secret lurks in the depths of a government lab.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w1280/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackSeeTheWorld.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackSeeTheWorld.mp4",
+      "hasSinhalaSub": true,
+      "published": true
+    },
+    {
+      "id": "ep-bb-101",
+      "seriesId": "tv-breaking-bad",
+      "seasonId": "seas-bb-1",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "title": "Pilot",
+      "airDate": "2008-01-20",
+      "runtime": 58,
+      "overview": "When an unassuming high school chemistry teacher is diagnosed with terminal lung cancer, he decides to team up with an ex-student to cook meth.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+      "hasSinhalaSub": true,
+      "published": true
+    },
+    {
+      "id": "ep-wed-101",
+      "seriesId": "tv-wednesday",
+      "seasonId": "seas-wed-1",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "title": "Wednesday's Child is Full of Woe",
+      "airDate": "2022-11-23",
+      "runtime": 59,
+      "overview": "When a deliciously wicked prank gets Wednesday expelled, her parents ship her off to Nevermore Academy, the boarding school where they fell in love.",
+      "thumbnailUrl": "https://image.tmdb.org/t/p/w1280/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+      "streamingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "downloadUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "hasSinhalaSub": true,
+      "published": true
+    }
+  ],
+  "collections": [
+    {
+      "id": "col-avengers",
+      "slug": "avengers-saga",
+      "name": "Avengers Saga",
+      "nameSi": "ඇවෙන්ජර්ස් සිනමා එකතුව",
+      "description": "The complete Avengers epic journey from Earth's Mightiest Heroes assembling to the ultimate Endgame battle against Thanos.",
+      "coverImage": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "movieIds": [
+        "m-avengers-1",
+        "m-avengers-2",
+        "m-avengers-3",
+        "m-avengers-4"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "col-mcu",
+      "slug": "marvel-cinematic-universe",
+      "name": "Marvel Cinematic Universe",
+      "nameSi": "මාර්වල් සිනමා විශ්වය",
+      "description": "Marvel Studios' groundbreaking interconnected superhero universe featuring Iron Man, Captain America, Thor, and more.",
+      "coverImage": "https://image.tmdb.org/t/p/w1280/lmZFxXgJE3vgr8zqvgFuZAdDXap.jpg",
+      "movieIds": [
+        "m-avengers-1",
+        "m-avengers-2",
+        "m-avengers-3",
+        "m-avengers-4"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "col-dc",
+      "slug": "dc-extended-universe",
+      "name": "DC Extended Universe",
+      "nameSi": "ඩීසී සුපිරි වීර එකතුව",
+      "description": "Dark, epic adventures from DC Comics featuring Batman, Superman, Wonder Woman, and the Justice League.",
+      "coverImage": "https://image.tmdb.org/t/p/w1280/jhi3K0rN46SS29Yeg9iuYHGUCcW.jpg",
+      "movieIds": [],
+      "isFeatured": true
+    },
+    {
+      "id": "col-harry-potter",
+      "slug": "harry-potter-collection",
+      "name": "Harry Potter Wizarding World",
+      "nameSi": "හැරී පොටර් මායා ලෝකය",
+      "description": "Relive the magic of Hogwarts with the complete 8-film Harry Potter saga.",
+      "coverImage": "https://image.tmdb.org/t/p/w1280/5rrGVmRUmiKOliOz3DY9q0hyxum.jpg",
+      "movieIds": [],
+      "isFeatured": false
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub-av-1",
+      "targetType": "movie",
+      "targetId": "m-avengers-1",
+      "targetTitle": "The Avengers (2012)",
+      "language": "Sinhala",
+      "fileName": "The.Avengers.2012.1080p.BluRay.x264.Sinhala.srt",
+      "fileSize": "78.4 KB",
+      "fileUrl": "/api/subtitles/download/sample-sub-1",
+      "uploadedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "sub-av-2",
+      "targetType": "movie",
+      "targetId": "m-avengers-2",
+      "targetTitle": "Avengers: Age of Ultron (2015)",
+      "language": "Sinhala",
+      "fileName": "Avengers.Age.of.Ultron.2015.1080p.BluRay.Sinhala.srt",
+      "fileSize": "84.2 KB",
+      "fileUrl": "/api/subtitles/download/sample-sub-2",
+      "uploadedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "sub-av-3",
+      "targetType": "movie",
+      "targetId": "m-avengers-3",
+      "targetTitle": "Avengers: Infinity War (2018)",
+      "language": "Sinhala",
+      "fileName": "Avengers.Infinity.War.2018.1080p.Sinhala.srt",
+      "fileSize": "92.1 KB",
+      "fileUrl": "/api/subtitles/download/sample-sub-3",
+      "uploadedAt": "2026-08-21T21:02:46.889Z"
+    },
+    {
+      "id": "sub-av-4",
+      "targetType": "movie",
+      "targetId": "m-avengers-4",
+      "targetTitle": "Avengers: Endgame (2019)",
+      "language": "Sinhala",
+      "fileName": "Avengers.Endgame.2019.1080p.Sinhala.srt",
+      "fileSize": "112.6 KB",
+      "fileUrl": "/api/subtitles/download/sample-sub-4",
+      "uploadedAt": "2026-08-21T21:02:46.889Z"
+    }
+  ],
+  "settings": {
+    "siteName": "SeriesHubLk",
+    "siteLogoUrl": "/logo.png",
+    "siteCoverUrl": "/assets/cover.png",
+    "contactEmail": "info@serieshub.lk",
+    "contactPhone": "+94 77 123 4567",
+    "telegramUrl": "https://t.me/SeriesHubLk",
+    "facebookUrl": "https://facebook.com/SeriesHubLk",
+    "youtubeUrl": "https://youtube.com/@SeriesHubLk",
+    "tmdbApiKey": "4a1a05db269fb2395c9b055504a95439",
+    "defaultSeoTitle": "SeriesHubLk — සිංහල උපසිරැසි සමඟ චිත්‍රපට සහ ටීවී සීරීස්",
+    "defaultSeoDescription": "ලොව ජනප්‍රිය චිත්‍රපට සහ TV Series සිංහල උපසිරැසි සහිතව 1080p Video Quality සමඟ බාගත කිරීමට සහ නැරඹීමට ඇති විශිෂ්ටතම වෙබ් අඩවිය.",
+    "heroHeading": "ලොව ජනප්‍රිය TV Series & චිත්‍රපට නිවහන",
+    "heroSubheading": "සිංහල උපසිරැසි සහිතව 1080p Full HD Video Quality... ඔබේ ඊළඟ ප්‍රියතම Series එක මෙතැනින්!",
+    "noticeBanner": "🎉 SeriesHubLk වෙත සාදරයෙන් පිළිගනිමු! සියලුම චිත්‍රපට සහ ටීවී සීරීස් සඳහා උසස් තත්ත්වයේ සිංහල උපසිරැසි නොමිලේ ලබාගත හැක."
+  },
+  "contactMessages": []
+}
