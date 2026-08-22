@@ -1,0 +1,6 @@
+{
+  "name": "SeriesHubLk",
+  "description": "A modern, full-stack Sinhala movie and TV series website for browsing, streaming, and downloading movies, TV series, and Sinhala subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
